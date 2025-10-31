@@ -1,13 +1,11 @@
 ---
 title: "Vol.0 Linuxは壊れない安心体験集"
-slug: vol0-linux-safe
+slug: vol0-linux-safe-v2
 emoji: "🐧"
 type: "tech"
 topics: ["linux", "beginner"]
 published: true
 ---
-
-
 
 # Vol.0 Linuxは壊れない安心体験集
 
@@ -20,5 +18,3 @@ published: true
 uname -a
 
 Linux hostname 5.15.0-86-generic #96-Ubuntu SMP ...
-
-
