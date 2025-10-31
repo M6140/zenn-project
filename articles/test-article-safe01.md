@@ -1,6 +1,6 @@
 ---
 title: "テスト記事"
-slug: test-article
+slug: test-article-safe01
 emoji: "📝"
 type: "tech"
 published: true
@@ -8,4 +8,4 @@ published: true
 
 # テスト記事
 
-これはテスト記事です（slug: test-article）。
+これはテスト記事です（slug: test-article-safe01）。
