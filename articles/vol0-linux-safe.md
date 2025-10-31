@@ -1,9 +1,7 @@
 ---
 title: "Vol.0 Linuxは壊れない安心体験集"
-slug: vol0-linux-safe-v2
 emoji: "🐧"
 type: "tech"
-topics: ["linux", "beginner"]
 published: true
 ---
 
