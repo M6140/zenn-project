@@ -6,4 +6,4 @@ type: "tech"
 published: true
 ---
 
-これはテスト記事です。
+これはテスト記事です（slug: test-article）。
